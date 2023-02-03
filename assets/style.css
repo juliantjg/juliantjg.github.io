@@ -377,6 +377,7 @@ h1 {
 
 .slider-text1 {
     animation: slide 5s linear infinite;
+    overflow: hidden;
 }
 
 .slider-text2 {
